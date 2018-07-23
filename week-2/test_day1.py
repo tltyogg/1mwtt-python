@@ -4,7 +4,7 @@
 
 import unittest
 
-from day5 import moo
+from day1 import moo
 
 # moo(3)
 
