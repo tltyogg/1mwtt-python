@@ -146,30 +146,30 @@
 
 # Find something today in your life, that is a calculation
 
-# A Binary tree node
-class Node:
-
-    # Constructor to create a new node
-    def __init__(self, data):
-        self.data = data
-        self.left = None
-        self.right = None
-
-# Function to get the count of leaf nodes in binary tree
-def getLeafCount(node):
-    if node is None:
-        return 0
-    if(node.left is None and node.right is None):
-        return 1
-    else:
-        return getLeafCount(node.left) + getLeafCount(node.right)
 
 
-# Driver program to test above function
-root = Node(1)
-root.left = Node(2)
-root.right = Node(3)
-root.left.left = Node(4)
-root.left.right = Node(5)
+# Building and sorting an array
 
-print "Leaf count of the tree is %d" %(getLeafCount(root)) 
+
+
+# Table of contents revisited
+# print('')
+# table = {1: {'chapter':'1', 'title': 'The Boy Who Lived', 'page': '1'},
+#          2: {'chapter':'2', 'title': 'The Vanishing Glass', 'page': '18'},
+#          3: {'chapter':'3', 'title': 'The Letters from No One', 'page': '31'}}
+#
+# print('Table of Contents'.center(60))
+# print('')
+# print('Chapter ' + (table[1]['chapter'].ljust(15)) + (table[1]['title'].center(30)) + (table[1]['page'].rjust(15)))
+# print('Chapter ' + (table[2]['chapter'].ljust(15)) + (table[2]['title'].center(30)) + (table[2]['page'].rjust(15)))
+# print('Chapter ' + (table[3]['chapter'].ljust(15)) + (table[3]['title'].center(30)) + (table[3]['page'].rjust(15)))
+#
+# print('')
+
+# Write a function that prints out "moo" n times
+
+
+# Old-school Roman numerals
+
+
+# “Modern” Roman numerals
