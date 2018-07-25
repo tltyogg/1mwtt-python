@@ -41,31 +41,31 @@ print('')
 
 
 # Write a function that prints out all elements of the above board, starting from the first element of the first line, till the end. Each line should be read from beginning to end.
-M = 'land'
-o = 'water'
-world = [
-         [o,o,o,o,o,o,o,o,o,o,o],
-         [o,o,o,o,M,M,o,o,o,o,o],
-         [o,o,o,o,o,o,o,o,M,M,o],
-         [o,o,o,M,o,o,o,o,o,M,o],
-         [o,o,o,M,o,M,M,o,o,o,o],
-         [o,o,o,o,M,M,M,M,o,o,o],
-         [o,o,o,M,M,M,M,M,M,M,o],
-         [o,o,o,M,M,o,M,M,M,o,o],
-         [o,o,o,o,o,o,M,M,o,o,o],
-         [o,M,o,o,o,M,o,o,o,o,o],
-         [o,o,o,o,o,o,o,o,o,o,o]
-        ]
-
-for i in list(world):
-    print(i)
+# M = 'land'
+# o = 'water'
+# world = [
+#          [o,o,o,o,o,o,o,o,o,o,o],
+#          [o,o,o,o,M,M,o,o,o,o,o],
+#          [o,o,o,o,o,o,o,o,M,M,o],
+#          [o,o,o,M,o,o,o,o,o,M,o],
+#          [o,o,o,M,o,M,M,o,o,o,o],
+#          [o,o,o,o,M,M,M,M,o,o,o],
+#          [o,o,o,M,M,M,M,M,M,M,o],
+#          [o,o,o,M,M,o,M,M,M,o,o],
+#          [o,o,o,o,o,o,M,M,o,o,o],
+#          [o,M,o,o,o,M,o,o,o,o,o],
+#          [o,o,o,o,o,o,o,o,o,o,o]
+#         ]
+#
+# for i in list(world):
+#     print(i)
 
 
 # Now write a function that prints out all elements in reverse.
-for i in list(world):
-    if world[i] >= 0
-    world = (max(world) - 1)
-    print(i, (max(world)) - 1)
+# for i in list(world):
+#     if world[i] >= 0
+#     world = (max(world) - 1)
+#     print(i, (max(world)) - 1)
 
 
 # There is one small bug in the continent counter above. Can you find it and fix it? (Hint: change the world so that the continent borders the edge)
@@ -73,3 +73,10 @@ for i in list(world):
 
 
 # Write a function that generates an n x n sized board with either land or water chosen randomly.
+
+
+# Day 3
+
+print('')
+print('***** DAY THREE *****')
+print('')
