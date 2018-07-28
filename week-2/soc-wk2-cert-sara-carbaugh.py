@@ -214,16 +214,15 @@ print('')
 #
 # Exercise #5 from http://www.nltk.org/book/ch01.html ☼ Compare the lexical diversity scores for humor and romance fiction in 1.1. Which genre is more lexically diverse?
 
-import nltk
-nltk.download('gutenberg')
-from nltk.book import *
-
-def lexical_diversity(text):
-    return len(set(text)) / len(text)
-
-def percentage(count, total):
-    return 100 * count / total
-
-print(lexical_diversity(text2))
-
-print(lexical_diversity(text6))
+# import nltk
+# from nltk.book import *
+#
+# def lexical_diversity(text):
+#     return len(set(text)) / len(text)
+#
+# def percentage(count, total):
+#     return 100 * count / total
+#
+# print(lexical_diversity(text2))
+#
+# print(lexical_diversity(text6)) # Monty Python is more lexically diverse (.127 > .048)
