@@ -92,6 +92,9 @@ Careers in tech
     - Wednesday: Programming basics (coding language tips and tricks)
     - Friday: Live Q&A session (live Facebook chat with mentors to answer career or coding related questions)
 
+# Year ONE
+
+
 
 
 
