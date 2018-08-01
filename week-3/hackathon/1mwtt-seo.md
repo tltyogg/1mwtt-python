@@ -12,6 +12,7 @@ Purpose: To reach women and enbies who have dreams of finding a career in tech.
     - lack of female mentors
     - work/life balance
     - career support
+    - child care options
 
 # Target Topics
 - woman focused learning
@@ -62,6 +63,7 @@ Become a sponsor at local events or online events
 
 Create branded global "meetup" groups for the women to go through the program together
 
+Partner with a company to create internships
 
 # Create free tutorials on several different tech related subjects:
 
@@ -73,17 +75,26 @@ Subjects to cover:
 Beginner Coding
 - Intro to Python
 - Intro to HTML and CSS
-- Intro to Javascript
+- Intro to JavaScript
 
 Careers in tech
 - Interview tips
 - How to find a job
 - How to create a resume
+- Building a portfolio
+- Technical interview tips
 - Confidence building in the tech industry
 
+# Focus more on mentorship and career enhancement, instead of on the "learn to code" aspect of the process
 
+Create a mentor program for new programmers
+- App creation workshop
+- Volunteer opportunities
+- Grace Hopper program
+- Internship/
+-
 
-## Implimentation Timeline
+## Implementation Timeline
 
 # Ongoing site content plan:
 - Create an editorial calendar for the Blog and social media profiles
@@ -93,10 +104,36 @@ Careers in tech
     - Wednesday: Programming basics (coding language tips and tricks)
     - Friday: Live Q&A session (live Facebook chat with mentors to answer career or coding related questions)
 
-# Year ONE
+
+# Career Enhancement program
+- Create relationships with businesses and women in tech fields in order to create a network of opportunities
+- Create a process for assigning new coders with mentors
+- Create mock interview programs to help women gain confidence in the process
 
 
 
+# 2018 Summer of Code / Winter of Data
+- Gain info from current participants via SurveyMonkey or similar service
+  - What did you enjoy?
+  - What do you need?
+  - Exercises and lesson difficulty?
+
+- Use that survey information to build the next lesson offerings (SOC and WOD)
+
+
+# July 2018 -
+- Create internship opportunities through 1MWTT
+- Reach out to local businesses and communities to create sponsorships
+- Connect with professional women to start the Career Enrichment program
+  - Worldwide outreach for each region and languages
+- Implement the editorial calendar to begin creating content for the Blog
+
+
+# 2019
+- Create an open source app that matches women to mentors based on region and languages
+  - React native language
+
+- Offer the 2019 Summer of Code
 
 
 

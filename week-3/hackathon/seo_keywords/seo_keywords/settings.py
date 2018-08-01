@@ -13,6 +13,7 @@ BOT_NAME = 'seo_keywords'
 
 SPIDER_MODULES = ['seo_keywords.spiders']
 NEWSPIDER_MODULE = 'seo_keywords.spiders'
+FEED_FORMAT: CSV
 
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
