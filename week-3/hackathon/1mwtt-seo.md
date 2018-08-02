@@ -1,12 +1,12 @@
-###################
-# Team Members:   #
-# - gillybops     #
-# - girijakumar   #
-# - MirandaBlair  #
-# - priyaka-xo    #
-# - tltyogg       #
-# - TWHou         #
-###################
+
+Team Members:   
+- gillybops     
+- girijakumar   
+- MirandaBlair  
+- priyaka-xo    
+- tltyogg       
+- TWHou         
+
 
 ---
 
@@ -23,9 +23,9 @@ We have created an outline and implementation guide that will do two things:
 
 ---
 
-## SEO Content Strategy
+# SEO Content Strategy
 
-# Who is our target audience?
+## Who is our target audience?
 - __Women__
   - Age range: 18 +
   - Geography: Worldwide
@@ -35,7 +35,7 @@ We have created an outline and implementation guide that will do two things:
     - career support
     - child care options
 
-# What are our target topics of interest?
+## What are our target topics of interest?
 - woman focused learning
 - learning to code
 - career change
@@ -70,7 +70,7 @@ coding bootcamp
 
 ## Building Our Community, both online and off
 
-# Reach out to other organizations who work with women and code:
+### Reach out to other organizations who work with women and code:
 - DjangoGirls
 - Girls Who Code
 - Melinda Gates, Gates Foundation
@@ -82,7 +82,7 @@ Create branded global "meetup" groups for women to get together and learn about 
 
 Partner with a local or online company to create internships for Summer of Code graduates
 
-# Create free tutorials on several different tech related subjects:
+### Create free tutorials on several different tech related subjects:
 
 __Content creation *online*__:
 - YouTube videos
@@ -121,9 +121,9 @@ __Create a mentor program for new programmers__
 
 ---
 
-## Implementation
+# Implementation
 
-# Ongoing site content plan:
+## Ongoing site content plan:
 - __Create an editorial calendar__ for the Blog and social media profiles
   - An editorial calendar schedules out future blog posts or blog post themes in order to plan ahead and keep the information posting on a consistent basis
   - Decide on a posting schedule (daily, bi-weekly, weekly)
@@ -140,14 +140,14 @@ __Create a mentor program for new programmers__
       - Job seeking women  
 
 
-# Career Enhancement program
+## Career Enhancement program
 - Create relationships with businesses and women in tech fields in order to create a network of opportunities
 - Create a process for assigning new coders with mentors
 - Create mock interview programs to help women gain confidence in the process
 
 
 
-# 2018 Summer of Code / Winter of Data
+## 2018 Summer of Code / Winter of Data
 - Gain info from current participants via SurveyMonkey or similar service
   - What did you enjoy?
   - What do you need?
@@ -158,7 +158,7 @@ __Create a mentor program for new programmers__
 - Use that survey information to build the next lesson offerings (SOC and WOD)
 
 
-# July 2018 ->
+## July 2018 ->
 - Create internship opportunities through 1MWTT
 - Reach out to local businesses and communities to create sponsorships
 - Connect with professional women to start the Career Enrichment program
@@ -171,7 +171,7 @@ __Create a mentor program for new programmers__
 
 
 
-# 2019
+## 2019
 - Create an open source app that matches women to mentors based on region and languages
 - Continue to grow relationships with local businesses and organizations to spread the word about our organization
 
