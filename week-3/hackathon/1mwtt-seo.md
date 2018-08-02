@@ -71,9 +71,9 @@ We have created an outline and implementation guide that will do two things:
 
 ---
 
-## Building Our Community (both online and off)
+# Building Our Community (both online and off)
 
-### Reach out to other organizations who work with women and code:
+## Reach out to other organizations who work with women and code:
 
 - DjangoGirls
 - Girls Who Code
@@ -87,7 +87,7 @@ Create branded global "meetup" groups for women to get together and learn about 
 Partner with a local or online company to create internships for Summer of Code graduates
 
 
-### Create free tutorials on several different tech related subjects:
+## Create free tutorials on several different tech related subjects:
 
 __Content creation *online*__:
 
@@ -102,7 +102,7 @@ __Content creation *offline*__:
 - Global meetup groups
 
 
-### Subjects to cover through content creation on and offline:
+## Subjects to cover through content creation on and offline:
 
 __Intro Coding Courses__
 
