@@ -1,5 +1,5 @@
 
-Team Members:   
+Team Awesome Ladies Members:   
 - gillybops     
 - girijakumar   
 - MirandaBlair  
