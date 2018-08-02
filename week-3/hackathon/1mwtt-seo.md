@@ -2,7 +2,6 @@
 Team Awesome Ladies Members:   
 - gillybops     
 - girijakumar   
-- MirandaBlair  
 - priyaka-xo    
 - tltyogg       
 - TWHou         
