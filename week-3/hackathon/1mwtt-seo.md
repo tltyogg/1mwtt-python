@@ -26,6 +26,7 @@ We have created an outline and implementation guide that will do two things:
 # SEO Content Strategy
 
 ## Who is our target audience?
+
 - __Women__
   - Age range: 18 +
   - Geography: Worldwide
@@ -36,6 +37,7 @@ We have created an outline and implementation guide that will do two things:
     - child care options
 
 ## What are our target topics of interest?
+
 - woman focused learning
 - learning to code
 - career change
@@ -45,32 +47,34 @@ We have created an outline and implementation guide that will do two things:
 
 
 ### SEO Keywords to focus on
-women programmers
-coding for moms
-women in computer science
-learn to code
-websites to learn coding
-women in tech jobs
-coding programs for women
-learn python
-learn to code
-women in tech jobs
-jobs for women at home
-engineering jobs for women
-women in technology
-women who code
-women in the tech industry
-black women in tech
-women programmers
-female tech leaders
-women in tech organizations
-coding bootcamp
+
+- women programmers
+- coding for moms
+- women in computer science
+- learn to code
+- websites to learn coding
+- women in tech jobs
+- coding programs for women
+- learn python
+- learn to code
+- women in tech jobs
+- jobs for women at home
+- engineering jobs for women
+- women in technology
+- women who code
+- women in the tech industry
+- black women in tech
+- women programmers
+- female tech leaders
+- women in tech organizations
+- coding bootcamp
 
 ---
 
-## Building Our Community, both online and off
+## Building Our Community (both online and off)
 
 ### Reach out to other organizations who work with women and code:
+
 - DjangoGirls
 - Girls Who Code
 - Melinda Gates, Gates Foundation
@@ -82,28 +86,33 @@ Create branded global "meetup" groups for women to get together and learn about 
 
 Partner with a local or online company to create internships for Summer of Code graduates
 
+
 ### Create free tutorials on several different tech related subjects:
 
 __Content creation *online*__:
+
 - YouTube videos
 - Blog posts/ newsletter
 - E-book creation (SOC)
 
 __Content creation *offline*__:
+
 - Local events
 - Online webinars
 - Global meetup groups
 
-__Subjects to cover through content creation on and offline__:
 
-__Beginner Coding Course__
+###Subjects to cover through content creation on and offline:
+
+__Intro Coding Courses__
+
 - Intro to Python
 - Intro to HTML and CSS
 - Intro to JavaScript
 
-Having a basic workshop to refer new women to will help streamline the process and allow new women to have a good starting place.
 
 __Careers in tech__
+
 - Interview tips
 - How to find a job
 - How to create a resume
@@ -113,11 +122,15 @@ __Careers in tech__
 
 This section should be the main focus of the content creation through the website, Facebook page and other on and offline areas. Refer new women to the intro courses and then allow them to build on their experience through career enrichment topics.
 
+
 __Create a mentor program for new programmers__
-- App creation workshop
-- Volunteer opportunities
-- Build off of the Grace Hopper program
-- Internship/apprentice training opportunities
+
+- App creation workshops
+  - Help women gain real world experience through contributing to open source projects
+
+- Volunteer opportunities within 1MWTT
+
+- Internship/apprentice training opportunities within 1MWTT as well as in partner organizations
 
 ---
 
@@ -126,28 +139,36 @@ __Create a mentor program for new programmers__
 ## Ongoing site content plan:
 - __Create an editorial calendar__ for the Blog and social media profiles
   - An editorial calendar schedules out future blog posts or blog post themes in order to plan ahead and keep the information posting on a consistent basis
+
   - Decide on a posting schedule (daily, bi-weekly, weekly)
+
   - Focus on keyword ideas from the list above
-    Example:
+    - Example:
       - Monday: Monday motivation (women in tech career spotlight)
       - Wednesday: Programming basics (coding language tips and tricks)
       - Friday: Live Q&A session (live Facebook chat with mentors to answer career or coding related questions)
-  - Ask for contributors from our community in order to lessen the burden of consistantly creating new content
+
+  - Ask for submissions from our community in order to lessen the burden of consistently creating new content
     - Create a submission form to get posts from the community and then vet them before posting them to the site
     - Create a blog series that showcases different women and they're progress in the tech field
-      - Just getting started women
-      - Professional women
-      - Job seeking women  
+      - Examples:
+        - Just getting started women
+        - Professional women
+        - Job seeking women  
 
 
 ## Career Enhancement program
+
 - Create relationships with businesses and women in tech fields in order to create a network of opportunities
+
 - Create a process for assigning new coders with mentors
+
 - Create mock interview programs to help women gain confidence in the process
 
 
 
 ## 2018 Summer of Code / Winter of Data
+
 - Gain info from current participants via SurveyMonkey or similar service
   - What did you enjoy?
   - What do you need?
@@ -159,8 +180,11 @@ __Create a mentor program for new programmers__
 
 
 ## July 2018 ->
+
 - Create internship opportunities through 1MWTT
+
 - Reach out to local businesses and communities to create sponsorships
+
 - Connect with professional women to start the Career Enrichment program
   - Worldwide outreach for each region and languages
 
@@ -172,7 +196,9 @@ __Create a mentor program for new programmers__
 
 
 ## 2019
+
 - Create an open source app that matches women to mentors based on region and languages
+
 - Continue to grow relationships with local businesses and organizations to spread the word about our organization
 
 - Offer the 2019 Summer of Code
@@ -182,6 +208,7 @@ __Create a mentor program for new programmers__
 ---
 
 ### Sources
+
 ISACA The Future Tech Workforce: Breaking Gender Barriers - http://www.isaca.org/SiteCollectionDocuments/Breaking-Gender-Barriers_res_eng_0317.PDF
 
 Are programs like ‘Girls Who Code’ actually effective?
