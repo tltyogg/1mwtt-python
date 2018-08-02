@@ -113,14 +113,14 @@ __Intro Coding Courses__
 
 __Careers in tech__
 
+__This section should be the main focus of the content creation through the website, Facebook page and other on and offline areas.__ Refer new women to the intro courses and then allow them to build on their experience through career enrichment topics.
+
 - Interview tips
 - How to find a job
 - How to create a resume
 - Building a portfolio
 - Technical interview tips
 - Confidence building in the tech industry
-
-This section should be the main focus of the content creation through the website, Facebook page and other on and offline areas. Refer new women to the intro courses and then allow them to build on their experience through career enrichment topics.
 
 
 __Create a mentor program for new programmers__
