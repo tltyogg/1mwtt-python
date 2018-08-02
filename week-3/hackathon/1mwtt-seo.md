@@ -1,11 +1,32 @@
+###################
+# Team Members:   #
+# - gillybops     #
+# - girijakumar   #
+# - MirandaBlair  #
+# - priyaka-xo    #
+# - tltyogg       #
+# - TWHou         #
+###################
+
+---
+
 # 1MWTT SEO and Content Marketing Strategy
 
 Purpose: To reach women and enbies who have dreams of finding a career in tech.
 
-## Content Strategy
+Through online research and group discussion we have discovered that there is no shortage of "learn to code" programs for women. Many programs have long histories and large communities that help them get the word out to women and enbies that coding is a wonderful and rewarding career. Unfortunately there seems to be a lack of education past the "learn to code" chapter.
 
-# Target audience
-- Women
+We have created an outline and implementation guide that will do two things:
+
+1. Help grow traffic to the 1 Million Women to Tech website and programs through SEO keywords and content creation
+2. Set up a __Career Enrichment Program__ that will encourage and mentor women who have the coding skills but need the experience and guidance to break into the job market.
+
+---
+
+## SEO Content Strategy
+
+# Who is our target audience?
+- __Women__
   - Age range: 18 +
   - Geography: Worldwide
   - Pain points:
@@ -14,19 +35,16 @@ Purpose: To reach women and enbies who have dreams of finding a career in tech.
     - career support
     - child care options
 
-# Target Topics
+# What are our target topics of interest?
 - woman focused learning
 - learning to code
 - career change
 - female mentors
 - empowerment in the tech community
-- confidence
+- confidence building
 
-## Scrapy Research ?
 
-(Insert Scrapy results here)
-
-### Keywords
+### SEO Keywords to focus on
 women programmers
 coding for moms
 women in computer science
@@ -48,10 +66,9 @@ female tech leaders
 women in tech organizations
 coding bootcamp
 
-Estimated Traffic per keyword:
+---
 
-
-## What needs to be Built in order to be competitive?
+## Building Our Community, both online and off
 
 # Reach out to other organizations who work with women and code:
 - DjangoGirls
@@ -59,25 +76,34 @@ Estimated Traffic per keyword:
 - Melinda Gates, Gates Foundation
 - Mother Coders
 
-Become a sponsor at local events or online events
+Become a sponsor at their local events or online events
 
-Create branded global "meetup" groups for the women to go through the program together
+Create branded global "meetup" groups for women to get together and learn about the Summer of Code and other programs offerent by 1MWTT
 
-Partner with a company to create internships
+Partner with a local or online company to create internships for Summer of Code graduates
 
 # Create free tutorials on several different tech related subjects:
 
+__Content creation *online*__:
 - YouTube videos
 - Blog posts/ newsletter
+- E-book creation (SOC)
 
-Subjects to cover:
+__Content creation *offline*__:
+- Local events
+- Online webinars
+- Global meetup groups
 
-Beginner Coding
+__Subjects to cover through content creation on and offline__:
+
+__Beginner Coding Course__
 - Intro to Python
 - Intro to HTML and CSS
 - Intro to JavaScript
 
-Careers in tech
+Having a basic workshop to refer new women to will help streamline the process and allow new women to have a good starting place.
+
+__Careers in tech__
 - Interview tips
 - How to find a job
 - How to create a resume
@@ -85,24 +111,33 @@ Careers in tech
 - Technical interview tips
 - Confidence building in the tech industry
 
-# Focus more on mentorship and career enhancement, instead of on the "learn to code" aspect of the process
+This section should be the main focus of the content creation through the website, Facebook page and other on and offline areas. Refer new women to the intro courses and then allow them to build on their experience through career enrichment topics.
 
-Create a mentor program for new programmers
+__Create a mentor program for new programmers__
 - App creation workshop
 - Volunteer opportunities
-- Grace Hopper program
-- Internship/
--
+- Build off of the Grace Hopper program
+- Internship/apprentice training opportunities
 
-## Implementation Timeline
+---
+
+## Implementation
 
 # Ongoing site content plan:
-- Create an editorial calendar for the Blog and social media profiles
-- Focus on keyword ideas from the list above
-  Example:
-    - Monday: Monday motivation (women in tech career spotlight)
-    - Wednesday: Programming basics (coding language tips and tricks)
-    - Friday: Live Q&A session (live Facebook chat with mentors to answer career or coding related questions)
+- __Create an editorial calendar__ for the Blog and social media profiles
+  - An editorial calendar schedules out future blog posts or blog post themes in order to plan ahead and keep the information posting on a consistent basis
+  - Decide on a posting schedule (daily, bi-weekly, weekly)
+  - Focus on keyword ideas from the list above
+    Example:
+      - Monday: Monday motivation (women in tech career spotlight)
+      - Wednesday: Programming basics (coding language tips and tricks)
+      - Friday: Live Q&A session (live Facebook chat with mentors to answer career or coding related questions)
+  - Ask for contributors from our community in order to lessen the burden of consistantly creating new content
+    - Create a submission form to get posts from the community and then vet them before posting them to the site
+    - Create a blog series that showcases different women and they're progress in the tech field
+      - Just getting started women
+      - Professional women
+      - Job seeking women  
 
 
 # Career Enhancement program
@@ -117,25 +152,34 @@ Create a mentor program for new programmers
   - What did you enjoy?
   - What do you need?
   - Exercises and lesson difficulty?
+  - Location?
+  - Job search information (what are you looking for?)
 
 - Use that survey information to build the next lesson offerings (SOC and WOD)
 
 
-# July 2018 -
+# July 2018 ->
 - Create internship opportunities through 1MWTT
 - Reach out to local businesses and communities to create sponsorships
 - Connect with professional women to start the Career Enrichment program
   - Worldwide outreach for each region and languages
-- Implement the editorial calendar to begin creating content for the Blog
+
+- Complete the creation of the WordPress hub
+  - Implement the editorial calendar to begin creating content for the Blog
+  - Create tags and categories to structure the posts using the SEO keyword strategy
+  - Add SEO plugins such as YOAST SEO to increase SEO traffic to the site
+
 
 
 # 2019
 - Create an open source app that matches women to mentors based on region and languages
-  - React native language
+- Continue to grow relationships with local businesses and organizations to spread the word about our organization
 
 - Offer the 2019 Summer of Code
 
 
+
+---
 
 ### Sources
 ISACA The Future Tech Workforce: Breaking Gender Barriers - http://www.isaca.org/SiteCollectionDocuments/Breaking-Gender-Barriers_res_eng_0317.PDF
