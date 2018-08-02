@@ -102,7 +102,7 @@ __Content creation *offline*__:
 - Global meetup groups
 
 
-###Subjects to cover through content creation on and offline:
+### Subjects to cover through content creation on and offline:
 
 __Intro Coding Courses__
 
