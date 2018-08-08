@@ -112,29 +112,40 @@
 # print ("99 bottles of beer on the wall!")
 # # print (' ')
 
-# # Deaf Grandma
-# import random
-#
-# greeting = input("Talk to Grandma : ")
-# grandma = True
-#
-# while grandma == True:
-#     if greeting.islower() or greeting.istitle():
-#         print ("HUH?! SPEAK UP, GIRL!")
-#         print (' ')
-#         greeting = input("Talk to Grandma : ")
-#     while greeting.isupper() and "BYE" not in greeting:
-#             for x in range(1):
-#                 print ("NO, NOT SINCE " + str(random.randint(1900,1940)) + "!")
-#             print (' ')
-#             greeting = input("Talk to Grandma : ")
-#     if greeting == "":
-#         print ("HUH?! SPEAK UP, GIRL!")
-#         print (' ')
-#         greeting = input("Talk to Grandma : ")
-#     if greeting == "BYE":
-#         print ("SEE YA!")
-#         grandma = False
+# Deaf Grandma
+import random
+
+greeting = input("Talk to Grandma : ")
+grandma = True
+count = 0
+
+while grandma == True:
+    if greeting.islower() or greeting.istitle():
+        print ("HUH?! SPEAK UP, GIRL!")
+        count = 0
+        print (' ')
+        greeting = input("Talk to Grandma : ")
+    if greeting.isupper() and "BYE" not in greeting:
+        # for x in range(1):
+        print ("NO, NOT SINCE " + str(random.randint(1900,1940)) + "!")
+        count = 0
+        print (' ')
+        greeting = input("Talk to Grandma : ")
+    if greeting == "":
+        print ("HUH?! SPEAK UP, GIRL!")
+        count = 0
+        print (' ')
+        greeting = input("Talk to Grandma : ")
+    if greeting == "BYE":
+        print ("NO, NOT SINCE " + str(random.randint(1900,1940)) + "!")
+        print (' ')
+        count+=1
+        if count == 3:
+            print ("SEE YA!")
+            grandma = False
+        else :
+            greeting = input("Talk to Grandma : ")
+
 
 # Deaf grandma extended
 
