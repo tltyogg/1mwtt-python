@@ -199,3 +199,29 @@
 
 
 # “Modern” Roman numerals
+
+import math
+
+d=0
+while ((d > 3000) or (d==0)):
+    d=int(input("Enter a number between 1-3000 :"))
+
+rn = ""
+
+decimal=[1000, 500, 100,50,10,5,1]
+roman=["M", "D", "C", "L", "X", "V", "I"]
+i=0
+for n in decimal:
+    if (d==9):
+        rn=rn+"IX"
+        break
+    if (d==4):
+        rn=rn+"IV"
+        break
+    q = math.floor(d/n)
+    r= d % n
+    rn=rn+ (q*roman[i])
+    d=r
+    i=i+1
+
+print(rn)
