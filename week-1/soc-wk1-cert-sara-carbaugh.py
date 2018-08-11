@@ -112,47 +112,47 @@
 # print ("99 bottles of beer on the wall!")
 # # print (' ')
 
-# Deaf Grandma
-import random
+# Deaf Grandma and Deaf grandma extended
+# import random
+#
+# greeting = input("Talk to Grandma : ")
+# grandma = True
+# count = 0
+#
+# while grandma == True:
+#     if greeting.islower() or greeting.istitle():
+#         print ("HUH?! SPEAK UP, GIRL!")
+#         count = 0
+#         print (' ')
+#         greeting = input("Talk to Grandma : ")
+#     if greeting.isupper() and "BYE" not in greeting:
+#         # for x in range(1):
+#         print ("NO, NOT SINCE " + str(random.randint(1900,1940)) + "!")
+#         count = 0
+#         print (' ')
+#         greeting = input("Talk to Grandma : ")
+#     if greeting == "":
+#         print ("HUH?! SPEAK UP, GIRL!")
+#         count = 0
+#         print (' ')
+#         greeting = input("Talk to Grandma : ")
+#     if greeting == "BYE":
+#         print ("NO, NOT SINCE " + str(random.randint(1900,1940)) + "!")
+#         print (' ')
+#         count+=1
+#         if count == 3:
+#             print ("SEE YA!")
+#             grandma = False
+#         else :
+#             greeting = input("Talk to Grandma : ")
 
-greeting = input("Talk to Grandma : ")
-grandma = True
-count = 0
-
-while grandma == True:
-    if greeting.islower() or greeting.istitle():
-        print ("HUH?! SPEAK UP, GIRL!")
-        count = 0
-        print (' ')
-        greeting = input("Talk to Grandma : ")
-    if greeting.isupper() and "BYE" not in greeting:
-        # for x in range(1):
-        print ("NO, NOT SINCE " + str(random.randint(1900,1940)) + "!")
-        count = 0
-        print (' ')
-        greeting = input("Talk to Grandma : ")
-    if greeting == "":
-        print ("HUH?! SPEAK UP, GIRL!")
-        count = 0
-        print (' ')
-        greeting = input("Talk to Grandma : ")
-    if greeting == "BYE":
-        print ("NO, NOT SINCE " + str(random.randint(1900,1940)) + "!")
-        print (' ')
-        count+=1
-        if count == 3:
-            print ("SEE YA!")
-            grandma = False
-        else :
-            greeting = input("Talk to Grandma : ")
-
-
-# Deaf grandma extended
 
 
 
 # Leap years
 
+# first_year = input("Enter your first year: ")
+# second_year = input("Enter your second year: ")
 
 
 # Find something today in your life, that is a calculation
@@ -160,6 +160,17 @@ while grandma == True:
 
 
 # Building and sorting an array
+
+# word_list = []
+#
+# word = input("Please enter a word: ")
+#
+# while word != "" :
+#     word_list.append(word)
+#     word = input("Please enter a word: ")
+#     if word == "":
+#         print (sorted(word_list))
+
 
 
 
@@ -179,6 +190,10 @@ while grandma == True:
 
 # Write a function that prints out "moo" n times
 
+# def moo(n):
+#     print("moo " * n)
+#
+# moo(4)
 
 # Old-school Roman numerals
 

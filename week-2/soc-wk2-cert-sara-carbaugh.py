@@ -8,9 +8,9 @@
 # and count how many times each letter appears in Alice in WONDERLAND
 # Referenced https://stackoverflow.com/questions/18647707/count-letters-in-a-text-file
 
-import codecs
-import string
-import pprint
+# import codecs
+# import string
+# import pprint
 # from collections import Counter
 # from string import ascii_lowercase
 # pp = pprint.PrettyPrinter(indent=4)
@@ -25,9 +25,9 @@ import pprint
 
 # Day 2
 
-print('')
-print('***** DAY TWO *****')
-print('')
+# print('')
+# print('***** DAY TWO *****')
+# print('')
 
 # Make a function that prints A-Z and a-z
 # for i in range((65,65+26),(97,97+26)):
@@ -77,9 +77,9 @@ print('')
 
 # Day 3
 
-print('')
-print('***** DAY THREE *****')
-print('')
+# print('')
+# print('***** DAY THREE *****')
+# print('')
 
 # Modify "a" for another name in my_dict. Hint: you will have to create a new key-value pair, copy in the value, and then delete the old one.
 #
@@ -99,7 +99,24 @@ print('')
 
 
 # Redo the frequency distribution of alice_in_wonderland.txt and save your result in a dictionary.
+
+# import codecs
+# import string
+# from collections import Counter
+# from string import ascii_lowercase
 #
+# alice_dict ={}
+#
+# with codecs.open('alice_in_wonderland.txt', encoding='utf-8', errors='ignore') as f:
+#     alice = Counter(letter for line in f
+#                     for letter in line.lower()
+#                     if letter in ascii_lowercase)
+#
+# alice_dict = dict(sorted(alice.most_common()))
+#
+# print(alice_dict)
+#
+# print('')
 
 
 
@@ -134,8 +151,10 @@ print('')
 # s1 = Student("Virginia Balseiro ", "yesvirginia [Gold] [Volunteer] ", "pasta ", "moving to Europe")
 # s2 = Student("Andreea Visanoiu ", "Andreea[Gold] ", "wontonmee ", "becoming a University teacher")
 # s3 = Student("Cristy Tarantino ", "CristyTarantino[Gold] ", "pasta ", "being an amazing developer")
-# s4 =
-# s5 =
+# s4 = Student("Deb Cupitt", "", "chocolate", "gender equality")
+# s5 = Student("Marwa Qabeel", "Marwa Qabeel [Gold]", "", "data analyst")
+# s6 = Student("Sacha Young", "sacha[Gold]", "pasta", "work as a developer by the end of the year")
+# s7 = Student("Bituin Callanta", "bituin[gold]", "sashimi", "lessen the gender wage gap")
 
 
 
@@ -207,9 +226,9 @@ print('')
 
 # Day 3
 
-print('')
-print('***** DAY FOUR *****')
-print('')
+# print('')
+# print('***** DAY FOUR *****')
+# print('')
 
 #
 # Exercise #5 from http://www.nltk.org/book/ch01.html ☼ Compare the lexical diversity scores for humor and romance fiction in 1.1. Which genre is more lexically diverse?
